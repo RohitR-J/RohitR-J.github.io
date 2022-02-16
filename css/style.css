@@ -1,0 +1,75 @@
+html {
+  scroll-behavior: smooth;
+}
+#name {
+  font-family: "Cedarville Cursive", cursive !important;
+}
+.info {
+  font-family: "VT323", monospace;
+}
+.head {
+  font-family: "VT323", monospace !important;
+}
+h2 {
+  font-family: "VT323", monospace !important;
+}
+.first-block {
+  font-family: "VT323", monospace !important;
+}
+.second-block {
+  font-family: "VT323", monospace !important;
+}
+p {
+  font-family: "VT323", monospace !important;
+}
+.user-image {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  margin-top: 80px;
+}
+.page-size {
+  height: 660px;
+}
+
+.name-margin {
+  margin-left: 44px;
+}
+.email-margin {
+  margin-left: 80px;
+}
+.edu-year {
+  color: #bfbfbf;
+  /* margin-right: 100px;
+    margin-top: 10px; */
+}
+.value-right {
+  float: right;
+}
+.progress {
+  height: 10px !important;
+}
+.html-col {
+  background-color: #039be5 !important;
+}
+.boot-col {
+  background-color: blueviolet !important;
+}
+.js-col {
+  background-color: #ffc300 !important;
+}
+.angular-col {
+  background-color: #cc0000 !important;
+}
+.python-col {
+  background-color: #01579b !important;
+}
+.django-col {
+  background-color: #009688 !important;
+}
+.git-col {
+  background-color: #263238 !important;
+}
+.mysql-col {
+  background-color: orangered !important;
+}
