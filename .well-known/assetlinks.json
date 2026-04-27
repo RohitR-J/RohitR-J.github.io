@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.alahleiains.aicapp",
+      "sha256_cert_fingerprints": [
+        "6E:C8:33:D4:37:A6:3B:05:E6:0E:C8:B2:80:59:60:6A:70:9C:7A:C6:28:FC:60:86:49:E9:92:64:A2:B9:10:BC"
+      ]
+    }
+  }
+]
